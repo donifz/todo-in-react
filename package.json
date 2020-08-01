@@ -2,7 +2,7 @@
   "name": "to-do-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/donifz/todo-in-react.git",
+  "homepage": "https://donifz.github.io/todo-in-react/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
