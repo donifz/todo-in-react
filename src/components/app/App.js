@@ -35,8 +35,7 @@ class App extends React.Component {
       completed: false,
     };
 
-    console.log(this.state.axe);
-
+    this.setState({ inputText: "" });
     this.setState(({ data }) => {
       let newArray = [...data, newTask];
 

@@ -9,7 +9,7 @@ const InputTask = (props) => {
         required
         type="text"
         onChange={props.handleChange}
-        defaultValue=""
+        value={props.text}
         // onFocus={this.clear}
       ></input>
       <input
